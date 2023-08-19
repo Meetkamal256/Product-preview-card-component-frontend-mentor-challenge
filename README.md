@@ -1,4 +1,5 @@
 # Frontend Mentor - Product preview card component solution
+https://user-images.githubusercontent.com/104779844/261821923-da29b78d-e648-4e2a-89ea-2f017a165177.png
 ### The challenge
 
 Users should be able to:
@@ -26,7 +27,7 @@ Users should be able to:
 I further improved my flex box and grid skills i also improved making responsive pages using media queries..
 ```
 
-## Acknowledgments
+### Acknowledgments
 I would be really appreciative if any one could reach out to improve my code or any issues found, thank you....
 
 
