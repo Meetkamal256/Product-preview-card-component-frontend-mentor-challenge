@@ -47,6 +47,7 @@ body{
     display: inherit;
 }
 
+
 .card-content{
     padding: 1rem;
 }
@@ -94,7 +95,15 @@ button{
     width: 100%;
     border: none;
     border-radius: 7px;
-} 
+}
+
+button:hover{
+    background-color: hsl(158, 36%, 23%);
+}
+
+button span img{
+    padding-right: 10px;
+}
 
 @media(max-width: 492px){
     .grid{
@@ -107,14 +116,47 @@ button{
         width: 100%;
         object-fit: cover;
     }
+
+    .card-content{
+        padding: 2rem;
+    }
     
     h6.pro-cat, h2.pro-name, p.pro-des, .price{
         margin-bottom: 0.8rem;
     }
     
     h6.pro-cat{
+        font-size: 13px;
+    }
+
+    h2.pro-name{
+        font-size: 30px;
+    }
+    
+    p.pro-des{
         font-size: 14px;
     }
+    
+    .card-content .price .current-price{
+        font-size: 1rem;
+    
+    }
+    
+    .card-content .price .old-price{
+        margin-left: 12px;
+        font-size: 0.6rem;
+    }
+    
+    button{
+        background-color: var(--Dark-cyan);
+        font-size: 12px;
+        padding: 7px;;
+    }
+    
+    button span img{
+        padding-right: 10px;
+    }
+    
 
 }
 
@@ -134,11 +176,44 @@ button{
         width: 100%;
         object-fit: cover;
     }
+    
  
     h6.pro-cat, h2.pro-name, p.pro-des, .price{
         margin-bottom: 0.9rem;
     }
+    
+    h6.pro-cat{
+        font-size: 13px;
+    }
+    
+    h2.pro-name{
+        font-size: 25px;
+    }
+    
+    p.pro-des{
+        font-size: 11px;
+    }
+    
+    .price .current-price{
+        font-size: 0.2rem;
+    }
      
-
+    .card-content{
+        padding: 2rem;
+    }
+    
+    .card-content .price .current-price{
+        font-size: 1rem;
+    }
+    
+    .card-content .price .old-price{
+        font-size: 0.6rem;
+    }
+    
+    button{
+    font-size: 10px;
+    padding: 7px;
+   
+} 
 }
 
