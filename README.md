@@ -1,5 +1,5 @@
 # Frontend Mentor - Product preview card component solution
-https://user-images.githubusercontent.com/104779844/261821923-da29b78d-e648-4e2a-89ea-2f017a165177.png
+![Screenshot from 2023-08-19 23-03-51](https://github.com/Meetkamal256/Product-preview-card-component-frontend-mentor-challenge/assets/104779844/923ba63a-a949-480d-9809-581def55a85d)
 ### The challenge
 
 Users should be able to:
@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/Meetkamal256/Product-preview-card-component-frontend-mentor-challenge
+- Live Site URL: https://product-preview-card-component-frontend-mentor-chall-rib7lbqy9.vercel.app/
 
 ## My process
 
